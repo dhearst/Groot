@@ -21,6 +21,7 @@
 // THE SOFTWARE.
 
 import CoreData
+import GrootObjC
 
 extension NSManagedObjectContext {
 
